@@ -44,7 +44,7 @@ I’m a passionate developer with hands-on experience in full-stack development 
 ---
 ## 📄 Resume
 
-[![View Resume](https://img.shields.io/badge/View-My_Resume-blue?style=for-the-badge&logo=readme)](https://github.com/your-username/your-repo/blob/main/Aftab_Pathan.pdf)
+[![View Resume](https://img.shields.io/badge/View-My_Resume-blue?style=for-the-badge&logo=readme)](https://github.com/Aftab0khan021/your-repo/blob/main/Aftab_Pathan.pdf)
 
 ---
 ## 🔗 Connect with Me

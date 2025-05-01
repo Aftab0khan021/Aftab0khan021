@@ -42,6 +42,11 @@ I’m a passionate developer with hands-on experience in full-stack development 
 - 🐍 **Python Foundation** – Infosys Springboard  
 
 ---
+## 📄 Resume
+
+[![View Resume](https://img.shields.io/badge/View-My_Resume-blue?style=for-the-badge&logo=readme)](https://github.com/your-username/your-repo/blob/main/Aftab_Pathan.pdf)
+
+---
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aftab-khan-389282285)

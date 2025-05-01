@@ -2,7 +2,7 @@
 <p align="center">
   🎓 B.Tech CSE-AIML | 📍 Bhopal, India<br>
   💻 Aspiring Software Engineer <br>
-  📫 paftab320@gmail.com • 📱 7089036313
+  📫 paftab320@gmail.com 
 </p>
 
 ---

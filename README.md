@@ -42,6 +42,10 @@ I’m a passionate developer with hands-on experience in full-stack development 
 - 🐍 **Python Foundation** – Infosys Springboard  
 
 ---
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aftab-khan-389282285)
+
 <!--
 **Aftab0khan021/Aftab0khan021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

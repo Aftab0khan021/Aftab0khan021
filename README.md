@@ -22,6 +22,10 @@ I’m a passionate developer with hands-on experience in full-stack development 
 
 ## 💻 Projects
 
+### 🤖 AI Virtual Assistant (Ongoing)
+- Python-based personal assistant with voice control, OpenAI integration, and task automation.
+- Working on adding scheduling, web scraping, and intelligent system commands.
+
 ### 🌸 Iris Classification Model
 - Built a high-accuracy classifier using Python, Scikit-learn, and PCA/LDA
 - Compared KNN, SVM, Decision Tree & Random Forest
@@ -42,9 +46,10 @@ I’m a passionate developer with hands-on experience in full-stack development 
 - 🐍 **Python Foundation** – Infosys Springboard  
 
 ---
-## 📄 Resume
+## 💻 Coding Profiles
 
-[![View Resume](https://img.shields.io/badge/View-My_Resume-blue?style=for-the-badge&logo=readme)](https://github.com/Aftab0khan021/your-repo/blob/main/Aftab_Pathan.pdf)
+- 🔗 **LeetCode:** [Aftabkhan021](https://leetcode.com/Aftabkhan021/)
+- 🔗 **HackerRank:** [paftab320](https://www.hackerrank.com/profile/paftab320)
 
 ---
 ## 🔗 Connect with Me

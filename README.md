@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Aftab Pathan</h1>
 <p align="center">
   🎓 B.Tech CSE-AIML | 📍 Bhopal, India<br>
-  💻 Aspiring Software Engineer | Passionate about building user-centric applications<br>
+  💻 Aspiring Software Engineer <br>
   📫 paftab320@gmail.com • 📱 7089036313
 </p>
 

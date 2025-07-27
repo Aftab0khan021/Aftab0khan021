@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Aftab Pathan</h1>
 <p align="center">
-  🎓 B.Tech CSE-AIML | 📍 Bhopal, India<br>
+  🎓 B.Tech CSE | 📍 Bhopal, India<br>
   💻 Aspiring Software Engineer <br>
   📫 paftab320@gmail.com 
 </p>

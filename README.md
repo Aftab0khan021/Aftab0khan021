@@ -59,7 +59,7 @@ An Atlassian Forge application designed to provide analytics and insights for ag
 ---
 
 ### 📫 Connect with me
-* **LinkedIn:** [https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aftab-khan-389282285]
+* **LinkedIn:** [https://www.linkedin.com/in/aftab-khan-389282285]
 * **Portfolio:** [https://portfolio-hubs.vercel.app/p/aftabpathan]
 * **Email:** [paftab320@gmail.com]
 

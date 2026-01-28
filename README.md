@@ -1,49 +1,67 @@
-<h1 align="center">👋 Hi, I'm Aftab Pathan</h1>
-<p align="center">
-  🎓 B.Tech CSE | 📍 Bhopal, India<br>
-  💻 Aspiring Software Engineer <br>
-  📫 paftab320@gmail.com 
-</p>
+# Hi there, I'm Aftab Khan! 👋
+
+### 🚀 Full Stack Engineer | AI & Machine Learning Enthusiast | Mobile Developer
+
+I am a passionate developer building unified workspaces, AI-driven analytics engines, and cross-platform applications. I specialize in merging robust backend architectures with intuitive frontend experiences, often enhanced by Generative AI.
 
 ---
 
-## 🚀 About Me
-I’m a passionate developer with hands-on experience in full-stack development and a strong foundation in data structures and software engineering principles. Currently exploring new-age technologies in AI/ML and scalable cloud-based systems.
+### 🛠️ Tech Stack
+
+* **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Apex](https://img.shields.io/badge/-Apex-00A1E0?logo=salesforce&logoColor=white)
+* **Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
+* **Backend & DB:** ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+* **AI & Data:** ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=chainlink&logoColor=white) ![GraphRAG](https://img.shields.io/badge/-GraphRAG-blue) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white)
+* **Tools & Platforms:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Atlassian Forge](https://img.shields.io/badge/-Atlassian_Forge-0052CC?logo=atlassian&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
 
 ---
 
-## 🛠️ Skills
+### 🌟 Featured Projects
 
-| Languages | Web | Backend | Database | Tools | Concepts |
-|----------|------|---------|----------|-------|----------|
-| C/C++, Python, JavaScript, PHP | HTML, CSS, React, Bootstrap, Tailwind CSS | Node.js, Express.js | SQL, MongoDB | Git, Docker, VS Code | DSA, OOP, Agile, Problem Solving |
+#### 🛡️ [SentinAL: Agentic Fraud Detection](https://github.com/Aftab0khan021/sentinal-fraud-detection)
+An advanced fraud detection system utilizing **GraphRAG** (Graph Retrieval-Augmented Generation) to analyze transaction networks.
+* **Tech:** Python, PyTorch, Neo4j/GraphDB, LangChain.
+* **Key Features:** Detects complex fraud rings using graph algorithms and explainable AI agents.
+
+#### 💼 [Unified Work AI](https://github.com/Aftab0khan021/unified-work-ai)
+A comprehensive SaaS workspace designed to unify productivity tools into one interface.
+* **Tech:** React, Supabase, Tailwind CSS, AI Integration.
+* **Key Features:** Real-time team chat, AI document processing, smart auto-scheduling, and project management.
+
+#### 🎨 [Profile Canvas](https://github.com/Aftab0khan021/profile-canvas)
+A dynamic portfolio builder with a powerful CMS backend.
+* **Tech:** React, TypeScript, Supabase, Radix UI.
+* **Key Features:** Full admin dashboard for content management, analytics tracking, and customizable themes.
+
+#### 🏃 [Time Echo Runner](https://github.com/Aftab0khan021/time-echo-runner)
+A browser-based 2D endless runner game featuring "ghost" mechanics.
+* **Tech:** React, HTML5 Canvas, Game Loop Logic.
+* **Key Features:** Custom physics engine, sprite animation system, and "time echo" gameplay mechanics.
+
+#### 📱 [Travel & Daily Helper](https://github.com/Aftab0khan021/travel_and_daily_helper)
+A cross-platform utility app for travelers and daily task management.
+* **Tech:** React, Capacitor (PWA/Mobile Hybrid).
+* **Key Features:** Offline support, geolocation services, and native device integration.
+
+#### 🧠 [Pitcrew Insights](https://github.com/Aftab0khan021/pitcrew-insights)
+An Atlassian Forge application designed to provide analytics and insights for agile teams.
+* **Tech:** Atlassian Forge, JavaScript, Jira API.
 
 ---
 
-## 💻 Projects
+### 📈 GitHub Stats
 
-### 🤖 AI Virtual Assistant (Ongoing)
-- Python-based personal assistant with voice control, OpenAI integration, and task automation.
-- Working on adding scheduling, web scraping, and intelligent system commands.
-
-### 🌸 Iris Classification Model
-- Built a high-accuracy classifier using Python, Scikit-learn, and PCA/LDA
-- Compared KNN, SVM, Decision Tree & Random Forest
-- Achieved **95%+ accuracy** on test data
-
-### 💬 SnapMuse – Social Media Web App
-- Developed with React, Node.js, Express.js, Bootstrap
-- Features: real-time messaging, authentication, friend management
-- Improved UX resulted in **40% higher user interaction**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aftab0khan021&show_icons=true&theme=radical" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab0khan021&layout=compact&theme=radical" height="150" alt="languages graph" />
+</div>
 
 ---
 
-## 🎓 Certifications
-
-- 🧩 **Web Development** – IBM SkillsBuild  
-- 🤖 **Intro to AI** – IBM SkillsBuild  
-- ☁️ **Cloud Foundation** – AWS Academy  
-- 🐍 **Python Foundation** – Infosys Springboard  
+### 📫 Connect with me
+* **LinkedIn:** [https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aftab-khan-389282285]
+* **Portfolio:** [https://portfolio-hubs.vercel.app/p/aftabpathan]
+* **Email:** [paftab320@gmail.com]
 
 ---
 ## 💻 Coding Profiles
@@ -51,22 +69,3 @@ I’m a passionate developer with hands-on experience in full-stack development 
 - 🔗 **LeetCode:** [Aftabkhan021](https://leetcode.com/Aftabkhan021/)
 - 🔗 **HackerRank:** [paftab320](https://www.hackerrank.com/profile/paftab320)
 
----
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aftab-khan-389282285)
-
-<!--
-**Aftab0khan021/Aftab0khan021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

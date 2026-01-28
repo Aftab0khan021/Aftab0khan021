@@ -47,6 +47,15 @@ A cross-platform utility app for travelers and daily task management.
 An Atlassian Forge application designed to provide analytics and insights for agile teams.
 * **Tech:** Atlassian Forge, JavaScript, Jira API.
 
+#### 📄 [AI Resume Checker](https://github.com/Aftab0khan021/ai-resume_checker)
+An intelligent career tool that analyzes resumes against job descriptions.
+* **Tech:** Python (Flask/FastAPI), React, NLP.
+* **Key Features:** Keyword matching, ATS scoring simulation, and gap analysis.
+
+#### 📱 [Kharcha App](https://github.com/Aftab0khan021/kharcha-app)
+A cross-platform mobile expense tracker built for performance and ease of use.
+* **Tech:** React Native, Expo, Nativewind.
+* **Key Features:** Offline-first architecture, daily tracking, and visual spending analytics.
 ---
 
 ### 📈 GitHub Stats

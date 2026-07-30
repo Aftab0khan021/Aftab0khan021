@@ -94,15 +94,14 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aftab0khan021&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab0khan021&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aftab0khan021&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab0khan021&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Aftab0khan021&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Aftab0khan021&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 <div align="center">

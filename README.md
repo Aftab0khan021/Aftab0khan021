@@ -95,18 +95,24 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aftab0khan021&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aftab0khan021&theme=tokyonight&utcOffset=5.5" />
+</div>
 
-![](https://img.shields.io/badge/Total%20Commits-868-blue?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Contributions-982-brightgreen?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Repos-21-orange?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-56%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aftab0khan021&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aftab0khan021&theme=tokyonight" />
+</div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aftab0khan021&theme=tokyonight" width="100%"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aftab0khan021&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
+---
 
 ## 🏆 Competitive Programming
 

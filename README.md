@@ -96,7 +96,7 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aftab0khan021&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aftab0khan021&theme=tokyonight&utcOffset=5.5" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aftab0khan021&theme=tokyonight&utcOffset=8" />
 </div>
 
 <div align="center">

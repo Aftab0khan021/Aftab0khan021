@@ -104,7 +104,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aftab0khan021&theme=tokyonight&no_frame=true&no_bg=true&margin_w=4&row=1"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aftab0khan021&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ---

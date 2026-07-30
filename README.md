@@ -113,7 +113,7 @@
 
 <div align="center">
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-★★★%203%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aftabpathan)
+[![CodeChef](https://img.shields.io/badge/CodeChef-★★★%203%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aftab021)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aftabpathan)
 
 </div>
